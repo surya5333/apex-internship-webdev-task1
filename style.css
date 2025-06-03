@@ -1,0 +1,91 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff7f7;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header {
+  background-color: #0066cc;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+section {
+  padding: 20px;
+}
+h2 {
+  color: #0066cc;
+  font-size: xx-large;
+}
+
+#about {
+  max-width: 1050px;
+  margin: 20px auto;  
+  
+  font-family: 'Open Sans', sans-serif;
+  font-size: large;
+  color: #333;
+  line-height: 1.6;
+}
+
+.about-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.about-text {
+  flex: 0 0 60%;
+  min-width: 300px;
+}
+
+.about-image {
+  flex: 0 0 35%;
+  min-width: 200px;
+}
+
+.about-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+
+img {
+  width: 300px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+form input {
+  padding: 8px;
+  margin: 5px 0;
+  width: 100%;
+  max-width: 300px;
+}
+button {
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease; /* added transition for smooth hover */
+}
+button:hover {
+  background-color: #004999;
+}
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
