@@ -3,6 +3,7 @@ tasks from ApexPlanet's Web Development Internship (HTML, CSS, JS)
 # Apex Internship Task 1 - Web Development
 
 This is Task 1 for the ApexPlanet Web Development Internship. It includes a simple personal portfolio webpage using HTML, CSS, and JavaScript.
+It includes webpage with headings,  images, and a submit button that shows an alert when clicked.
 
 ## 🚀 Features
 
@@ -19,9 +20,6 @@ This is Task 1 for the ApexPlanet Web Development Internship. It includes a simp
 - `script.js` – JavaScript (optional interactivity)
 - `assets/` – Images and other resources
 
-## 📸 Preview
-
-> Add a screenshot of your page here
 
 ## 📦 How to Run
 
